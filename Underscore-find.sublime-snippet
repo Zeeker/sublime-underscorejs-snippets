@@ -2,7 +2,7 @@
 <!-- Underscore 1.4.2 -->
 <snippet>
   <content><![CDATA[_(${1:list}).find( function(${2:value}) {
-  ${3:// return …}
+	${3:// return …}
 })]]></content>
   <tabTrigger>_find</tabTrigger>
   <scope>source.js</scope>
